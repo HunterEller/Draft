@@ -4,7 +4,7 @@ EEG Prosthetic is an interesting bridge to the divide of possible and plausible.
 
 Here is a small snippit of the code I've written for the arm.
 
-![](https://github.com/HunterEller/EEG-Prosthetic/blob/master/Code.PNG)
+![](https://github.com/HunterEller/EEG-Prosthetic/blob/master/Capture.PNG)
 
 Features
 --------
