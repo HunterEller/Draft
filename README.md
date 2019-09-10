@@ -2,7 +2,7 @@ EEG Prosthetic
 ==============
 EEG Prosthetic is an interesting bridge to the divide of possible and plausible.
 
-##Link to Code
+
 
 Features
 --------
@@ -16,16 +16,25 @@ Features
 Installation
 ------------
 
-##Coming soon!
+Installation of the current code can be downloaded by following the source link and the main software will be under the headset library.
+
+Instructions
+------------
+
+-Put the headset on your head with electrodes lining the sides of your head above your ears and a singular electrode on the front left side of your forehead.
+
+-Turn on the headset then turn on the arduino and the library will load.
+
+-Try to concentrate and the prosthetic will intuitively close on it's own just from your brain power!
 
 Contribute
 ----------
 
 Issues: github.com/HunterEller/EEG-Prosthetic/issues
 
--There is a template and guide on how to submit an issue through the source link!
-
 Source: github.com/HunterEller/EEG-Prosthetic
+
+-There is a template and guide on how to submit an issue through the source link and clicking on issue template!
 
 Support
 -------
