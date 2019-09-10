@@ -30,9 +30,9 @@ Instructions
 Contribute
 ----------
 
-Problems with the code? : [Issues](github.com/HunterEller/EEG-Prosthetic/issues "Issues")
+Problems with the code? : [Issues](https://github.com/HunterEller/EEG-Prosthetic/issues "Issues")
 
-Want the code? : [Source](github.com/HunterEller/EEG-Prosthetic "Source")
+Want the code? : [Source](https://github.com/HunterEller/EEG-Prosthetic "Source")
 
 -There is a template and guide on how to submit an issue through the source link and clicking on issue template!
 
