@@ -33,3 +33,5 @@ feel free to email me at: ellerhc@appstate.edu
 
 License
 -------
+
+This software and hardware is protected by the BDS-2-Clause
