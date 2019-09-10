@@ -23,6 +23,8 @@ Contribute
 
 Issues: github.com/HunterEller/EEG-Prosthetic/issues
 
+-There is a template and guide on how to submit an issue through the source link!
+
 Source: github.com/HunterEller/EEG-Prosthetic
 
 Support
