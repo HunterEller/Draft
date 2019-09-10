@@ -16,14 +16,14 @@ Features
 Installation
 ------------
 
+##Coming soon!
+
 Contribute
 ----------
 
-Issues:
+Issues: github.com/HunterEller/EEG-Prosthetic/issues
 
-Comments:
-
-Source:
+Source: github.com/HunterEller/EEG-Prosthetic
 
 Support
 -------
