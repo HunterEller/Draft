@@ -21,18 +21,18 @@ Installation of the current code can be downloaded by following the source link 
 Instructions
 ------------
 
--Put the headset on your head with electrodes lining the sides of your head above your ears and a singular electrode on the front left side of your forehead.
+1. Put the headset on your head with electrodes lining the sides of your head above your ears and a singular electrode on the front left side of your forehead.
 
--Turn on the headset then turn on the arduino and the library will load.
+2. Turn on the headset then turn on the arduino and the library will load.
 
--Try to concentrate and the prosthetic will intuitively close on it's own just from your brain power!
+3. Try to concentrate and the prosthetic will intuitively close on it's own just from your brain power!
 
 Contribute
 ----------
 
-Issues: github.com/HunterEller/EEG-Prosthetic/issues
+Problems with the code? : [Issues](github.com/HunterEller/EEG-Prosthetic/issues "Issues")
 
-Source: github.com/HunterEller/EEG-Prosthetic
+Want the code? : [Source](github.com/HunterEller/EEG-Prosthetic "Source")
 
 -There is a template and guide on how to submit an issue through the source link and clicking on issue template!
 
