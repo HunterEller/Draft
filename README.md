@@ -2,32 +2,40 @@ EEG Prosthetic
 ==============
 EEG Prosthetic is an interesting bridge to the divide of possible and plausible.
 
-Here is a small snippit of the code I've written for the arm.
+An EEG tracks and records brain activity using electrodes that are placed on the scalp.
+
+Here is a small snippit of the code that has been written for the arm.
 
 ![](https://github.com/HunterEller/EEG-Prosthetic/blob/master/Images/Capture.PNG)
 
 Features
 --------
 
--Ability to read brainwaves.
+* Deciphers whether the wearer is concentrating or not.
 
--Functionality of ability to grip without arm or use of arm.
+* Functionality of ability to grip without arm or use of arm.
 
--General arm movements for impaired with brain activation.
+* General arm movements for impaired people with output from the EEG.
 
 Installation
 ------------
 
-Installation of the current code can be downloaded by following the source link and the main software will be under the headset library.
+Installation of the current code can be downloaded by following the source link. [Source](https://github.com/HunterEller/EEG-Prosthetic "Source")
+
+The main software will be under the headset library.
 
 Instructions
 ------------
 
-1. Put the headset on your head with electrodes lining the sides of your head above your ears and a singular electrode on the front left side of your forehead.
+1. Put the headset on your head.
 
-2. Turn on the headset then turn on the arduino and the library will load.
+* Electrodes should be lining the sides of your head above your ears and a singular electrode on the front left side of your forehead.
 
-3. Try to concentrate and the prosthetic will intuitively close on it's own just from your brain power!
+2. Turn on the headset.
+
+3. Turn on the arduino and the library will load.
+
+4. Try concentreting by doing math or antoher stimulating activity.
 
 Contribute
 ----------
@@ -36,13 +44,13 @@ Problems with the code? : [Issues](https://github.com/HunterEller/EEG-Prosthetic
 
 Want the code? : [Source](https://github.com/HunterEller/EEG-Prosthetic "Source")
 
--There is a template and guide on how to submit an issue through the source link and clicking on issue template!
+-Templates for issues will be under the templates link behind the source link.
 
 Support
 -------
 
-I'm always open to making changes for any mistakes or bettering the hardware/software, 
-feel free to email me at: ellerhc@appstate.edu
+If you have any issues or questions about the code, 
+feel free to email at: ellerhc@appstate.edu
 
 License
 -------
