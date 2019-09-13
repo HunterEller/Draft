@@ -8,6 +8,10 @@ Here is a small snippit of the code that has been written for the arm.
 
 ![](https://github.com/HunterEller/EEG-Prosthetic/blob/master/Images/Capture.PNG)
 
+Index
+-----
+
+
 Features
 --------
 
