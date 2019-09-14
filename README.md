@@ -60,3 +60,5 @@ License
 -------
 
 This software and hardware is protected by the BDS-2-Clause
+
+Infomation for the license and deeper reading can be found at : [License](https://github.com/HunterEller/EEG-Prosthetic/blob/master/LICENSE "License")
