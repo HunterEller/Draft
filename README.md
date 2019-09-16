@@ -54,7 +54,7 @@ FAQ
 
 Q: What can I do to help?
 
-* Help with the implementation directly [Source](https://github.com/HunterEller/EEG-Prosthetic "Source")
+* Help with the implementation directly. [Source](https://github.com/HunterEller/EEG-Prosthetic "Source")
 
 Q: When will the project be expected to be finished?
 
@@ -68,7 +68,7 @@ Support
 -------
 
 If you have any issues or questions about the code, 
-feel free to email at: ellerhc@appstate.edu
+  feel free to email at: ellerhc@appstate.edu
 
 License
 -------
