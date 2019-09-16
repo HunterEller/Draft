@@ -1,8 +1,11 @@
 EEG Prosthetic
 ==============
-EEG Prosthetic is an interesting bridge to the divide of possible and plausible.
 
 An EEG tracks and records brain activity using electrodes that are placed on the scalp.
+
+Here is a picture of a similar build of the expected outcome.
+
+![](Images/Image.JPG)
 
 Here is a small snippit of the code that has been written for the arm.
 
@@ -45,6 +48,11 @@ Problems with the code? : [Issues](https://github.com/HunterEller/EEG-Prosthetic
 Want the code? : [Source](https://github.com/HunterEller/EEG-Prosthetic "Source")
 
 -Templates for issues will be under the templates link behind the source link.
+
+FAQ
+---
+
+
 
 Support
 -------
