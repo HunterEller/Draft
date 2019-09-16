@@ -52,7 +52,17 @@ Want the code? : [Source](https://github.com/HunterEller/EEG-Prosthetic "Source"
 FAQ
 ---
 
+Q: What can I do to help?
 
+* Help with the implementation directly [Source](https://github.com/HunterEller/EEG-Prosthetic "Source")
+
+Q: When will the project be expected to be finished?
+
+* The expected finished product will be in November.
+
+Q: Will there be any way to help besides implementation of code?
+
+* There will likely be testing of the product when the EEG is finished and when the prosthetic is finished.
 
 Support
 -------
