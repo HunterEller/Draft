@@ -5,7 +5,7 @@ An EEG tracks and records brain activity using electrodes that are placed on the
 
 Here is a picture of a similar build of the expected outcome.
 
-![](Images/Image.JPG)
+![](Images/Image.jpg)
 
 Here is a small snippit of the code that has been written for the arm.
 
